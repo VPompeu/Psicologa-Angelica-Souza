@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  color: #f3d0d0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
